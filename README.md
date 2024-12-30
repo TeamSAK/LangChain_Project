@@ -28,8 +28,14 @@ Welcome to the **Generative AI Playground**, a collaborative and experimental re
 
 1. **Clone the Repository**:
   ```bash
-    git clone https://github.com/ahsanali429/generative_ai.git
-    ```
+  https://github.com/TeamSAK/LangChain_Project.git
+  ```
+2. **Explore the Codebase**:
+   - Browse through the organized folders to discover different use cases and projects.  
+
+3. **Experiment**:  
+   - Extend the functionalities by implementing your own ideas.  
+   - Test, tweak, and enhance the existing code to match your needs.
 
 ---
 
