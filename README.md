@@ -27,7 +27,8 @@ Welcome to the **Generative AI Playground**, a collaborative and experimental re
 ## 🛠 How to Use
 
 1. **Clone the Repository**:
-    ```bash
+  ```bash
+    git clone https://github.com/ahsanali429/generative_ai.git
     ```
 
 ---
